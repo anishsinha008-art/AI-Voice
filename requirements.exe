@@ -1,4 +1,6 @@
-requirements.txt
-app.py
-agents.py
-README.md
+streamlit==1.40.0
+pandas
+numpy
+plotly
+python-dotenv
+pillow
